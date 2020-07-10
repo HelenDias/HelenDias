@@ -15,7 +15,7 @@ Trabalho como FullStack Developer na [Cotabox](https://cotabox.com.br/).
 - Maxon (sim, é um personagem de livro. Desculpa sociedade, eu falhei);
 - Gatos (tenho duas gatinhas lindas: Chihiro e Peralta);
 
-### Onde me achar?
+#### Onde me achar?
 <ul>
   <li>
     <img src="https://user-images.githubusercontent.com/3603793/87077942-4b727b00-c1fa-11ea-890c-c1249a500a57.png" width="16" alt="Twitter"> 
