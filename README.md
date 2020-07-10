@@ -17,12 +17,12 @@ Trabalho como FullStack Developer na [Cotabox](https://cotabox.com.br/).
 
 #### Onde me achar?
 <ul>
-  <li>
-    <img src="https://user-images.githubusercontent.com/3603793/87077942-4b727b00-c1fa-11ea-890c-c1249a500a57.png" width="16" alt="Twitter"> 
+  <li style="display: flex; align-items: center;">
+    <img src="https://user-images.githubusercontent.com/3603793/87077942-4b727b00-c1fa-11ea-890c-c1249a500a57.png" width="12" alt="Twitter"> 
     <a href="https://twitter.com/helendiashd" target="_blank" title="Twitter">Twitter</a>
   </li>
   <li>
-    <img src="https://user-images.githubusercontent.com/3603793/87078013-6b09a380-c1fa-11ea-9ca0-6789b1cafb1c.png" width="16" alt="Linkedin"> 
+    <img src="https://user-images.githubusercontent.com/3603793/87078013-6b09a380-c1fa-11ea-9ca0-6789b1cafb1c.png" width="12" alt="Linkedin"> 
     <a href="https://www.linkedin.com/in/helendiashd/" target="_blank" title="LinkedIn">LinkedIn</a>
   </li>
 </ul>
