@@ -1,6 +1,6 @@
 ## Olá, pessoas! 👋
 
-Meu nome é Helen Dias, tenho 22 anos e me aventuro no mundo do código há 4 anos.
+Meu nome é Helen, tenho 22 anos e me aventuro no mundo do código há 4 anos.
 Trabalho como FullStack Developer na [Cotabox](https://cotabox.com.br/).
 
 🌱 Estou estudando **Node**, **React** e **React Native**.
