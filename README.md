@@ -13,11 +13,24 @@ Trabalho como FullStack Developer na [Cotabox](https://cotabox.com.br/).
 - Musicais;
 - Livros de romance, distopia, terror e aventura;
 - Maxon (sim, é um personagem de livro. Desculpa sociedade, eu falhei);
+- Gatos (tenho duas gatinhas lindas: Chihiro e Peralta);
+
+### Onde me achar?
+<ul>
+  <li>
+    <img src="https://user-images.githubusercontent.com/3603793/87077942-4b727b00-c1fa-11ea-890c-c1249a500a57.png" width="16" alt="Twitter"> 
+    <a href="https://twitter.com/helendiashd" target="_blank" title="Twitter">Twitter</a>
+  </li>
+  <li>
+    <img src="https://user-images.githubusercontent.com/3603793/87078013-6b09a380-c1fa-11ea-9ca0-6789b1cafb1c.png" width="16" alt="Linkedin"> 
+    <a href="https://www.linkedin.com/in/helendiashd/" target="_blank" title="LinkedIn">LinkedIn</a>
+  </li>
+</ul>
 
 #### ⚡ Fun facts:
 - :stuck_out_tongue_winking_eye: Antes de fazer informática, fiz cursos de Agropecuária, Paisagismo e Urbanismo, Edificações, Escrita Criativa e Teatro;
+- :performing_arts: Já participei de festivais de teatro (até levei prêmios pra casa);
 - :clapper: Estou atuando em um filme de terror independente;
-- :art: Já participei de festivais de teatro (até levei prêmios pra casa)
 - :pig: Sei castrar um porco;
 
 
