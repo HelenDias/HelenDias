@@ -4,7 +4,7 @@
   Meu nome é Helen, tenho 22 anos e me aventuro no mundo do código há 6 anos.
 </p>
 <p align="center">
-  Trabalho como FullStack Developer na <a href="https://cotabox.com.br/" target="blank">Cotabox</a>.
+  Trabalho como FullStack Developer na <a href="https://cotabox.com.br/" target="blank">Cotabox</a> e sou apaixonada por <strong>GraphQL</strong> (sério, é uma das coisas mais lindas que já vi :heart:), <strong>JavaScript</strong> e <strong>Vue</strong>
 </p>
 
 <p align="center">
@@ -17,25 +17,6 @@
 <p align="center">***</p>
 
 <p align="center">🌱 Estou estudando <strong>Node</strong>, <strong>TypeScript</strong>, <strong>React</strong> e <strong>React Native</strong>.</p>
-
-<p align="center">
-  Sou apaixonada por <strong>GraphQL</strong> (sério, é uma das coisas mais lindas que já vi :heart:), <strong>JavaScript</strong> e <strong>Vue</strong>
-</p>
-
-***
-
-<p align="center">
-  Amo teatro, musicais, livros (especialmente romance, distopia, terror e aventura), boardgames, RPG e gatos (tenho dois bebês: Chihiro e Peralta) :heart:
-</p>
-
-<p align="center">***</p>
-
-<h4 align="center">⚡ Aleatoriedades:</h4>
-
-- :stuck_out_tongue_winking_eye: Antes de fazer informática, fiz cursos de Agropecuária, Paisagismo e Urbanismo, Edificações, Escrita Criativa e Teatro;
-- :performing_arts: Já participei de festivais de teatro (até levei prêmios pra casa);
-- :clapper: Estou atuando em um filme de terror independente;
-- :pig: Sei castrar um porco;
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" alt="GraphQL" width="30" height="30"/>
@@ -55,3 +36,14 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=helendias&show_icons=true" alt="helendias" /> </p>
 
+<p align="center">***</p>
+<p align="center">
+  Amo teatro, musicais, livros (especialmente romance, distopia, terror e aventura), boardgames, RPG e gatos (tenho dois bebês: Chihiro e Peralta) :heart:
+</p>
+
+<h4 align="center">⚡ Aleatoriedades:</h4>
+
+- :stuck_out_tongue_winking_eye: Antes de fazer informática, fiz cursos de Agropecuária, Paisagismo e Urbanismo, Edificações, Escrita Criativa e Teatro;
+- :performing_arts: Já participei de festivais de teatro (até levei prêmios pra casa);
+- :clapper: Estou atuando em um filme de terror independente;
+- :pig: Sei castrar um porco;
