@@ -1,7 +1,18 @@
-## Olá, pessoas! 👋
+<h1 align="center">Olá, pessoas! 👋</h1>
 
-Meu nome é Helen, tenho 22 anos e me aventuro no mundo do código há 4 anos.
-Trabalho como FullStack Developer na [Cotabox](https://cotabox.com.br/).
+<p align="center">
+  Meu nome é Helen, tenho 22 anos e me aventuro no mundo do código há 6 anos.
+</p>
+<p align="center">
+  Trabalho como FullStack Developer na <a href="https://cotabox.com.br/" target="blank">Cotabox</a>.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/helendiashd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="helendiashd" height="20" width="20" /></a>
+  <a href="https://twitter.com/helendiashd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="helendiashd" height="20" width="20" /></a>
+  <a href="https://dev.to/helendiashd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="helendias" height="20" width="20" /></a>
+  <a href="https://instagram.com/helendias.hd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="helendias.hd" height="20" width="20" /></a>
+</p>
 
 🌱 Estou estudando **Node**, **React** e **React Native**.
 
@@ -12,22 +23,10 @@ Trabalho como FullStack Developer na [Cotabox](https://cotabox.com.br/).
 - Teatro;
 - Musicais;
 - Livros de romance, distopia, terror e aventura;
-- Maxon (sim, é um personagem de livro. Desculpa sociedade, eu falhei);
+- Maxon Schreave;
 - Gatos (tenho duas gatinhas lindas: Chihiro e Peralta);
 
-#### :mag: Onde me achar?
-<ul>
-  <li style="display: flex; align-items: center;">
-    <img src="https://user-images.githubusercontent.com/3603793/87077942-4b727b00-c1fa-11ea-890c-c1249a500a57.png" width="12" alt="Twitter"> 
-    <a href="https://twitter.com/helendiashd" target="_blank" title="Twitter">Twitter</a>
-  </li>
-  <li>
-    <img src="https://user-images.githubusercontent.com/3603793/87078013-6b09a380-c1fa-11ea-9ca0-6789b1cafb1c.png" width="12" alt="Linkedin"> 
-    <a href="https://www.linkedin.com/in/helendiashd/" target="_blank" title="LinkedIn">LinkedIn</a>
-  </li>
-</ul>
-
-#### ⚡ Fun facts:
+#### ⚡ Aleatoriedades:
 - :stuck_out_tongue_winking_eye: Antes de fazer informática, fiz cursos de Agropecuária, Paisagismo e Urbanismo, Edificações, Escrita Criativa e Teatro;
 - :performing_arts: Já participei de festivais de teatro (até levei prêmios pra casa);
 - :clapper: Estou atuando em um filme de terror independente;
