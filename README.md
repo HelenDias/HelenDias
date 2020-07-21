@@ -18,11 +18,11 @@
 
 <p align="center">🌱 Estou estudando <strong>Node</strong>, <strong>TypeScript</strong>, <strong>React</strong> e <strong>React Native</strong>.</p>
 
-<p align="center">***</p>
-
 <p align="center">
   Sou apaixonada por <strong>GraphQL</strong> (sério, é uma das coisas mais lindas que já vi :heart:), <strong>JavaScript</strong> e <strong>Vue</strong>
 </p>
+
+***
 
 <p align="center">
   Amo teatro, musicais, livros (especialmente romance, distopia, terror e aventura), boardgames, RPG e gatos (tenho dois bebês: Chihiro e Peralta) :heart:
