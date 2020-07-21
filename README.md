@@ -36,13 +36,12 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=helendias&show_icons=true" alt="helendias" /> </p>
 
-<p align="center">***</p>
-<p align="center">
-  Amo teatro, musicais, livros (especialmente romance, distopia, terror e aventura), boardgames, RPG e gatos (tenho dois bebês: Chihiro e Peralta) :heart:
-</p>
 
-<h4 align="center">⚡ Aleatoriedades:</h4>
+***
 
+Amo teatro, musicais, livros (especialmente romance, distopia, terror e aventura), boardgames, RPG e gatos (tenho dois bebês: Chihiro e Peralta) :heart:
+
+### ⚡ Aleatoriedades:
 - :stuck_out_tongue_winking_eye: Antes de fazer informática, fiz cursos de Agropecuária, Paisagismo e Urbanismo, Edificações, Escrita Criativa e Teatro;
 - :performing_arts: Já participei de festivais de teatro (até levei prêmios pra casa);
 - :clapper: Estou atuando em um filme de terror independente;
