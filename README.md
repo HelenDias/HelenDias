@@ -34,12 +34,10 @@
   <img src="https://konpa.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="30" height="30"/>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=helendias&show_icons=true" alt="helendias" /> </p>
-
 
 ***
 
-Amo teatro, musicais, livros (especialmente romance, distopia, terror e aventura), boardgames, RPG e gatos (tenho dois bebês: Chihiro e Peralta) :heart:
+<p align="center">Amo teatro, musicais, livros (especialmente romance, distopia, terror e aventura), boardgames, RPG e gatos (tenho dois bebês: Chihiro e Peralta) :heart:</p>
 
 ### ⚡ Aleatoriedades:
 - :stuck_out_tongue_winking_eye: Antes de fazer informática, fiz cursos de Agropecuária, Paisagismo e Urbanismo, Edificações, Escrita Criativa e Teatro;
