@@ -4,14 +4,14 @@
   Meu nome é Helen, tenho 22 anos e me aventuro no mundo do código há 6 anos.
 </p>
 <p align="center">
-  Trabalho como FullStack Developer na <a href="https://cotabox.com.br/" target="blank">Cotabox</a> e sou apaixonada por <strong>GraphQL</strong> (sério, é uma das coisas mais lindas que já vi :heart:), <strong>JavaScript</strong> e <strong>Vue</strong>
+  Trabalho como FullStack Developer na <a href="https://cotabox.com.br/" target="_blank">Cotabox</a> e sou apaixonada por <strong>GraphQL</strong> (sério, é uma das coisas mais lindas que já vi :heart:), <strong>JavaScript</strong> e <strong>Vue</strong>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/helendiashd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="helendiashd" height="20" width="20" /></a>
-  <a href="https://twitter.com/helendiashd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="helendiashd" height="20" width="20" /></a>
-  <a href="https://dev.to/helendiashd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="helendias" height="20" width="20" /></a>
-  <a href="https://instagram.com/helendias.hd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="helendias.hd" height="20" width="20" /></a>
+  <a href="https://linkedin.com/in/helendiashd" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="helendiashd" height="20" width="20" /></a>
+  <a href="https://twitter.com/helendiashd" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="helendiashd" height="20" width="20" /></a>
+  <a href="https://dev.to/helendiashd" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="helendias" height="20" width="20" /></a>
+  <a href="https://instagram.com/helendias.hd" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="helendias.hd" height="20" width="20" /></a>
 </p>
 
 <p align="center">***</p>
