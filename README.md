@@ -40,6 +40,8 @@
 
 <p align="center">Amo teatro, musicais, livros, boardgames, RPG e gatos :heart:</p>
 
+***
+
 ### ⚡ Aleatoriedades:
 - :stuck_out_tongue_winking_eye: Antes de fazer informática, fiz cursos de Agropecuária, Paisagismo e Urbanismo, Edificações, Escrita Criativa e Teatro;
 - :performing_arts: Já participei de festivais de teatro (até levei prêmios pra casa);
