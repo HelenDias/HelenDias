@@ -1,3 +1,4 @@
+<samp>
 <h1 align="center">Olá, pessoas! 👋</h1>
 
 <p align="center">
@@ -37,10 +38,11 @@
 
 ***
 
-<p align="center">Amo teatro, musicais, livros (especialmente romance, distopia, terror e aventura), boardgames, RPG e gatos (tenho dois bebês: Chihiro e Peralta) :heart:</p>
+<p align="center">Amo teatro, musicais, livros, boardgames, RPG e gatos :heart:</p>
 
 ### ⚡ Aleatoriedades:
 - :stuck_out_tongue_winking_eye: Antes de fazer informática, fiz cursos de Agropecuária, Paisagismo e Urbanismo, Edificações, Escrita Criativa e Teatro;
 - :performing_arts: Já participei de festivais de teatro (até levei prêmios pra casa);
 - :clapper: Estou atuando em um filme de terror independente;
 - :pig: Sei castrar um porco;
+</samp>
