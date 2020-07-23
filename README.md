@@ -5,7 +5,7 @@
   Meu nome é Helen, tenho 22 anos e me aventuro no mundo do código há 6 anos.
 </p>
 <p align="center">
-  Trabalho como FullStack Developer na <a href="https://cotabox.com.br/" target="_blank">Cotabox</a> e sou apaixonada por <strong>GraphQL</strong> (sério, é uma das coisas mais lindas que já vi :heart:), <strong>JavaScript</strong> e <strong>Vue</strong>
+  Trabalho como FullStack Developer na <a href="https://cotabox.com.br/" target="_blank">Cotabox</a> e sou apaixonada por <strong>GraphQL</strong> (sério, é uma das coisas mais lindas que já vi :heart:), <strong>JavaScript</strong> e <strong>Vue</strong>.
 </p>
 
 <p align="center">
