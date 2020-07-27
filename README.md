@@ -20,19 +20,18 @@
 <p align="center">🌱 Estou estudando <strong>Node</strong>, <strong>TypeScript</strong>, <strong>React</strong> e <strong>React Native</strong>.</p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" alt="GraphQL" width="30" height="30"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="30" height="30"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30" height="30"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="Webpack" width="30" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" alt="GraphQL" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="30"/>
+  <img src="https://going2.com.br/images/icons/react-icon.png" alt="React" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="30"/>
+  <img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" alt="TypeScript" height="30"/>
+  <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="CSS3" height="30"/>
+  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-1.png" alt="HTML5" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node.js" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1200px-MongoDB_Logo.svg.png" alt="MongoDB" height="30"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="MySQL" height="30"/>
+  <img src="https://altyra.com/wp-content/uploads/2018/11/microsoft-sql-server-logo-png.png" alt="SQL Server" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" width="30" height="30"/>
 </p>
 
 
