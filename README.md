@@ -41,7 +41,7 @@
 
 ***
 
-<h3 align="center">⚡ Aletoriedades:</h3>
+<h3 align="center">⚡ Aleatoriedades:</h3>
 
 <p align="center"> :stuck_out_tongue_winking_eye: Antes de fazer informática, fiz cursos de Agropecuária, Paisagismo e Urbanismo, Edificações, Escrita Criativa e Teatro;</p>
 <p align="center"> :performing_arts: Já participei de festivais de teatro (até levei prêmios pra casa);</p>
