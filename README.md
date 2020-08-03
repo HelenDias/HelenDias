@@ -5,7 +5,7 @@
   Meu nome é Helen, tenho 22 anos e me aventuro no mundo do código há 6 anos.
 </p>
 <p align="center">
-  Trabalho na <a href="https://www.juntossomosmais.com.br" target="_blank">Juntos Somos Mais</a> como dev Fron-End e sou apaixonada por <strong>GraphQL</strong> (sério, é uma das coisas mais lindas que já vi :heart:), <strong>JavaScript</strong> e <strong>Vue</strong>.
+  Trabalho na <a href="https://www.juntossomosmais.com.br" target="_blank">Juntos Somos Mais</a> como dev Front-End e sou apaixonada por <strong>GraphQL</strong> (sério, é uma das coisas mais lindas que já vi :heart:), <strong>JavaScript</strong> e <strong>Vue</strong>.
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center">***</p>
 
-<p align="center">🌱 Estou estudando <strong>Node</strong>, <strong>TypeScript</strong>, <strong>React</strong> e <strong>React Native</strong>.</p>
+<p align="center">🌱 Estou estudando <strong>React</strong> e <strong>React Native</strong>, <strong>Node</strong> e <strong>TypeScript</strong>.</p>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" alt="GraphQL" height="30"/>
