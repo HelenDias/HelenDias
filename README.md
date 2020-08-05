@@ -2,10 +2,7 @@
 <h1 align="center">Olá, pessoas! 👋</h1>
 
 <p align="center">
-  Meu nome é Helen, tenho 22 anos e me aventuro no mundo do código desde os 16.
-</p>
-<p align="center">
-  Tinha vontade de programar jogos, mas acabei caindo no mundo da web e resolvi ficar :)
+  Meu nome é Helen, tenho 22 anos e me aventuro no mundo do código há 6. Sempre gostei de jogos eletrônicos e tinha vontade de programá-los, mas acabei caindo no mundo da web e resolvi ficar :)
 </p>
 <p align="center">
   Trabalho na <a href="https://www.juntossomosmais.com.br" target="_blank">Juntos Somos Mais</a> como dev Front-End e sou apaixonada por <strong>GraphQL</strong> (sério, é uma das coisas mais lindas que já vi :heart:), <strong>JavaScript</strong> e <strong>Vue</strong>.
