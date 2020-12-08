@@ -5,7 +5,10 @@
   Meu nome é Helen, tenho 22 anos e me aventuro no mundo do código há 6. Sempre gostei de jogos eletrônicos e tinha vontade de programá-los, mas acabei caindo no mundo da web e resolvi ficar :)
 </p>
 <p align="center">
-  Trabalho na <a href="https://www.juntossomosmais.com.br" target="_blank">Juntos Somos Mais</a> como dev Front-End e sou apaixonada por <strong>GraphQL</strong> (sério, é uma das coisas mais lindas que já vi :heart:), <strong>JavaScript</strong> e <strong>Vue</strong>.
+  Trabalho na <a href="https://www.juntossomosmais.com.br" target="_blank">Juntos Somos Mais</a> como dev Front-End
+</p>
+<p align="center">
+Estou aos poucos me apaixonando por <strong>React</strong> e <strong>React Native</strong>.
 </p>
 
 <p align="center">
@@ -19,6 +22,7 @@
 
 <p align="center">🌱 Estou estudando <strong>React</strong>, <strong>React Native</strong>, <strong>Svelte</strong> e <strong>TypeScript</strong>.</p>
 
+<!--
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" alt="GraphQL" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="30"/>
@@ -33,7 +37,7 @@
   <img src="https://altyra.com/wp-content/uploads/2018/11/microsoft-sql-server-logo-png.png" alt="SQL Server" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" width="30" height="30"/>
 </p>
-
+-->
 
 ***
 
