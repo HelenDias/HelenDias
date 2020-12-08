@@ -18,9 +18,7 @@ Estou aos poucos me apaixonando por <strong>React</strong> e <strong>React Nativ
   <a href="https://instagram.com/helendias.hd" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="helendias.hd" height="20" width="20" /></a>
 </p>
 
-<p align="center">***</p>
-
-<p align="center">🌱 Estou estudando <strong>React</strong>, <strong>React Native</strong>, <strong>Svelte</strong> e <strong>TypeScript</strong>.</p>
+<p align="center">🌱 Estou estudando <strong>React</strong>, <strong>React Native</strong> e <strong>Svelte</strong>.</p>
 
 <!--
 <p align="center">
