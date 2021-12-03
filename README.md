@@ -5,7 +5,7 @@
   Meu nome é Helen, tenho 23 anos e me aventuro no mundo do código há 7. Sempre gostei de jogos eletrônicos e tinha vontade de programá-los, mas acabei caindo no mundo da web e resolvi ficar :)
 </p>
 <p align="center">
-  Trabalho na <a href="https://www.juntossomosmais.com.br" target="_blank">Juntos Somos Mais</a> como dev Front-End
+  Trabalho no <a href="https://nubank.com.br/" target="_blank">Nubank 💜</a> como Software Engineer
 </p>
 <p align="center">
 Estou aos poucos me apaixonando por <strong>React</strong> e <strong>React Native</strong>.
@@ -41,6 +41,7 @@ Estou aos poucos me apaixonando por <strong>React</strong> e <strong>React Nativ
 
 <p align="center">Amo teatro, musicais, livros, boardgames, RPG e gatos :heart:</p>
 
+<!--
 ***
 
 <h3 align="center">⚡ Aleatoriedades:</h3>
@@ -50,3 +51,4 @@ Estou aos poucos me apaixonando por <strong>React</strong> e <strong>React Nativ
 <p align="center"> :clapper: Estou atuando em um filme de terror independente;</p>
 <p align="center"> :pig: Sei castrar um porco;</p>
 </samp>
+-->
