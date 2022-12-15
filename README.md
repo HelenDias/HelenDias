@@ -1,15 +1,17 @@
 <samp>
-<h1 align="center">Olá, pessoas! 👋</h1>
+<h1 align="center">Olá! 👋</h1>
 
 <p align="center">
-  Meu nome é Helen, tenho 23 anos e me aventuro no mundo do código há 7. Sempre gostei de jogos eletrônicos e tinha vontade de programá-los, mas acabei caindo no mundo da web e resolvi ficar :)
+  Tô pensando no que colocar aqui 
 </p>
+<!--
 <p align="center">
   Trabalho no <a href="https://nubank.com.br/" target="_blank">Nubank 💜</a> como Software Engineer
 </p>
 <p align="center">
 Estou aos poucos me apaixonando por <strong>React</strong> e <strong>React Native</strong>.
 </p>
+-->
 
 <p align="center">
   <a href="https://linkedin.com/in/helendiashd" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="helendiashd" height="20" width="20" /></a>
@@ -18,9 +20,9 @@ Estou aos poucos me apaixonando por <strong>React</strong> e <strong>React Nativ
   <a href="https://instagram.com/helendias.hd" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="helendias.hd" height="20" width="20" /></a>
 </p>
 
+<!--
 <p align="center">🌱 Estou estudando <strong>React</strong>, <strong>React Native</strong> e <strong>Svelte</strong>.</p>
 
-<!--
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" alt="GraphQL" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="30"/>
@@ -35,13 +37,11 @@ Estou aos poucos me apaixonando por <strong>React</strong> e <strong>React Nativ
   <img src="https://altyra.com/wp-content/uploads/2018/11/microsoft-sql-server-logo-png.png" alt="SQL Server" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" width="30" height="30"/>
 </p>
--->
 
 ***
 
 <p align="center">Amo teatro, musicais, livros, boardgames, RPG e gatos :heart:</p>
 
-<!--
 ***
 
 <h3 align="center">⚡ Aleatoriedades:</h3>
